@@ -692,7 +692,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/kaoxindalao/TCMinerProxy/mai
 
 # 联系我们
 
-<p>Telegram: <a href="https://t.me/Miner_Pr0xy">https://t.me/Miner_Pr0xy</a></p>
+<p>Telegram: <a href="https://t.me/Miner_Pr0xy">https://t.me/kaoxindalao</a></p>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
