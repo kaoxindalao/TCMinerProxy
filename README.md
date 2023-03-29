@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mine-Proxy/TCMinerProxy/main/image/logo-1.png" alt="Logo" width="200" height="200">
+<img src="https://raw.githubusercontent.com/kaoxindalao/TCMinerProxy/main/image/logo-1.png" alt="Logo" width="200" height="200">
 
 <br>
 
@@ -30,7 +30,7 @@
 <p>root用户直接执行以下命令, 根据提示选择对应功能即可。</p>
 
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/mine-Proxy/TCMinerProxy/main/linux-install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/kaoxindalao/TCMinerProxy/main/linux-install.sh)
 ```
 
 <h2>免责声明</h2>
@@ -537,7 +537,7 @@ TOKEN超时切换到登录页自动保留了账号密码
 ```
 root用户直接执行以下命令, 根据提示选择对应功能即可。
 
-bash <(curl -s -L https://raw.githubusercontent.com/mine-Proxy/TCMinerProxy/main/linux-install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/kaoxindalao/TCMinerProxy/main/linux-install.sh)
 ```
 ### 安装完成之后, 请立即修改登录账号、密码以及启动端口，防止被爆破。
 
@@ -553,12 +553,12 @@ bash <(curl -s -L https://raw.githubusercontent.com/mine-Proxy/TCMinerProxy/main
 # Windows
 下载完后直接启动即可，程序自带进程守护
 
-<a href="https://github.com/mine-Proxy/TCMinerProxy/tree/main/Windows-64">下载地址</a>
+<a href="https://github.com/kaoxindalao/TCMinerProxy/tree/main/Windows-64">下载地址</a>
 
 <span id="_kenc"></span>
 # KENC
 <p>
-请前往<a href="https://github.com/mine-Proxy/TCMinerProxy/tree/main/KENC">https://github.com/mine-Proxy/TCMinerProxy/tree/main/KENC</a>自行下载
+请前往<a href="https://github.com/kaoxindalao/TCMinerProxy/tree/main/KENC">https://github.com/mine-Proxy/TCMinerProxy/tree/main/KENC</a>自行下载
 </p>
 <p><a href="#kenc">KENC帮助文档</a></p>
 
